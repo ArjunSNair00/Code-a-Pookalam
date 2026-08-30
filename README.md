@@ -1,5 +1,7 @@
 # 🌺 Code a Pookalam (p5.js Starter Template)
 
+![Alt text here](poster.jpeg)
+
 Welcome to **Code a Pookalam**! by **Tinkerhub CE Karunagappally**. Create your own animated 2D Onam Pookalam using **p5.js** and deploy it live on the web using Vercel—no terminal commands or installation required!
 
 ---
