@@ -1,7 +1,7 @@
 # 🌺 Code a Pookalam (p5.js Starter Template)
 
 <div align="center">
-  <img src="poster.jpeg" alt="Code a Pookalam Poster" max-width="400px" width="50%">
+  <img src="poster.jpeg" alt="Code a Pookalam Poster" max-width="400px" width="30%">
 </div>
 
 
