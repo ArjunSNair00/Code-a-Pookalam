@@ -26,15 +26,12 @@ let time = 0;
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
-  colorMode(HSB, 360, 100, 100, 1);
   smooth();
 }
 
 function draw() {
-  background(230, 30, 8); // Dark background
+  background("#000000");
   time += 0.015;
-
-  // Move origin to center of screen
   translate(width / 2, height / 2);
 
   // Add your floral layers here!
